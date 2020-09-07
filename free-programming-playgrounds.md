@@ -5,9 +5,10 @@
 * [Crystal](#crystal)
 * [CSS](#css)
 * [Elm](#elm)
-* [FlexBox](#flexbox)
 * [Go](#go)
 * [Haskell](#haskell)
+* [Ionic](#ionic)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
 * [.Net](#dotnet)
@@ -17,10 +18,13 @@
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
+* [React](#react)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [RxJS](#rxjs)
 * [Scala](#scala)
 * [SQL](#sql)
+* [Svelte](#svelte)
 * [Swift](#swift)
 * [TypeScript](#typescript)
 
@@ -28,6 +32,7 @@
 ### Angular
 
 * [Plunker](http://plnkr.co)
+* [StackBlitz](https://stackblitz.com/fork/angular)
 
 
 ### ClojureScript
@@ -46,16 +51,12 @@
 * [CSSdeck](http://cssdeck.com)
 * [CSSdesk](http://cssdesk.com)
 * [Dabblet](http://dabblet.com)
+* [Flexy Boxes](http://the-echoplex.net/flexyboxes/)
 
 
 ### Elm
 
 * [Ellie](https://ellie-app.com)
-
-
-### FlexBox
-
-* [Echoplex](http://the-echoplex.net/flexyboxes/)
 
 
 ### Go
@@ -68,10 +69,20 @@
 * [Try Haskell](https://www.tryhaskell.org)
 
 
+### Ionic
+
+* [StackBlitz](https://stackblitz.com/fork/ionic)
+
+
+### Java
+
+* [repl.it](https://repl.it) (_including a separate Java/Swing_)
+
+
 ### JavaScript
 
 * [CodePen](https://codepen.io)
-* [CodeSandbox.io](https://codesandbox.io) (_React_)
+* [CodeSandbox.io](https://codesandbox.io)
 * [JSBin](http://jsbin.com)
 * [JSFiddle](http://jsfiddle.net)
 * [Plunker](http://plnkr.co)
@@ -113,12 +124,17 @@
 ### Python
 
 * [Codepad](http://codepad.org)
-* [Pyfiddle](https://pyfiddle.io)
 
 
 ### R
 
 * [R-Fiddle](http://www.r-fiddle.org)
+
+
+### React
+
+* [CodeSandbox.io](https://codesandbox.io)
+* [StackBlitz](https://stackblitz.com/fork/react)
 
 
 ### Ruby
@@ -129,6 +145,11 @@
 ### Rust
 
 * [Rust Playground](http://play.integer32.com)
+
+
+### RxJS
+
+* [StackBlitz](https://stackblitz.com/fork/rxjs)
 
 
 ### Scala
@@ -144,6 +165,11 @@
 * [SQLFiddle](http://sqlfiddle.com)
 
 
+### Svelte
+
+* [StackBlitz](https://stackblitz.com/fork/svelte)
+
+
 ### Swift
 
 * [Online Swift Playground](http://online.swiftplayground.run)
@@ -152,3 +178,4 @@
 ### TypeScript
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
+* [StackBlitz](https://stackblitz.com/fork/typescript)
